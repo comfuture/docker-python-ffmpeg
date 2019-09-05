@@ -1,3 +1,3 @@
-# 파이썬3 과 ffmpeg 베이스 이미지
+# Python 3 with prebuilt ffmpeg, ffprobe binaries
 
 
